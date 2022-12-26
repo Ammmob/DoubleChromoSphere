@@ -1,0 +1,39 @@
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.AssemblyReference.cache
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.SuggestedBindingRedirects.cache
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Form.resources
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Properties.Resources.resources
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.GenerateResource.cache
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.CoreCompileInputs.cache
+D:\lab\.net lab\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe.config
+D:\lab\.net lab\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe
+D:\lab\.net lab\CsFormProject\CsFormProject\bin\Debug\CsFormProject.pdb
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.exe
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.pdb
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Selector.resources
+D:\lab\.net lab\CsFormProject\CsFormProject\obj\Debug\CsFormProject.PayForm.resources
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe.config
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\bin\Debug\CsFormProject.pdb
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.AssemblyReference.cache
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Form.resources
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.PayForm.resources
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Properties.Resources.resources
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Selector.resources
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.GenerateResource.cache
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.CoreCompileInputs.cache
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.exe
+C:\Users\XCDN\Desktop\CsFormProject\CsFormProject\obj\Debug\CsFormProject.pdb
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe.config
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\bin\Debug\CsFormProject.exe
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\bin\Debug\CsFormProject.pdb
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Form.resources
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.PayForm.resources
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Properties.Resources.resources
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.Selector.resources
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.exe
+D:\Microsoft Visual Studio\VSProject\CsFormProject\CsFormProject\obj\Debug\CsFormProject.pdb

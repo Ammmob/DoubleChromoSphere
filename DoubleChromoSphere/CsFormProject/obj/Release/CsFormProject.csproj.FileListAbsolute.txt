@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\bin\Release\CsFormProject.exe.config
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\bin\Release\CsFormProject.exe
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\bin\Release\CsFormProject.pdb
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.Form.resources
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.PayForm.resources
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.Properties.Resources.resources
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.Selector.resources
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.exe
+D:\Microsoft Visual Studio\VSProject\DoubleChromoSphere\CsFormProject\obj\Release\CsFormProject.pdb
